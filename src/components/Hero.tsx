@@ -79,7 +79,7 @@ export function Hero() {
                   sizes="(min-width: 768px) 440px, 90vw"
                   quality={90}
                   priority
-                  className="h-full w-full origin-bottom scale-[1.6] object-cover object-[50%_80%]"
+                  className="h-full w-full object-cover object-[50%_20%]"
                 />
               ) : (
                 <div
